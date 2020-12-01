@@ -1,0 +1,12 @@
+2. public +, private -, protectde #, package ~
+
+4. WSDL(Web Services Description Language)
+ - 웹 서비스와 관련된 서식이나 플로토콜 등을 표준적인 방법으로 기술하고 게시하기 위한 언어, UDDI의 기초, 
+- 클라이언트는 WSDL로 작성된 파일을 읽어 서버에서 어떠한 조작이 가능한지를 파악할 수 있다.
+
+6. 
+직접 연계 방식 : DB-Link, API/Open API, DB-Connection, JDBC
+간접 연계 방식 : ESB, Socket, WS
+
+18. Commit - 지역저장소로 올림
+     Push - 원격저장소로 올림
